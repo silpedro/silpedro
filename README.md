@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Pedro Silva</h1>
 <h3 align="center">A Freelancer and a Administrative Assistant from São Paulo - Brazil</h3>
 
-- 🌱 I’m currently learning **everything XD**
+🌱 I’m currently learning **everything XD**
 
-- 📫 How to reach me **silva.pedro1155@gmail.com**
+📫 How to reach me **silva.pedro1155@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/silpedro](linkedin.com/in/silpedro)
+📄 Know about my experiences here on **[linkedIn](linkedin.com/in/silpedro)**
 
-- 🎓 I have a technical course of **Systems Analysis and Development** and am doing a Full-Stack course! 
+💻 July/2023 Goals:
+- Create a personal website about my resume
+- Get promoted at my current job
+- Make new connections!
 
-- 💪 Definitely not a pro in programming **(currently)**, but I do try my best 🚀
+
+🎓 I have a technical course of **Systems Analysis and Development** and am doing a Full-Stack course! 
+
+💪 Definitely not a pro in programming **(currently)**, but I do try my best 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

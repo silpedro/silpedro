@@ -7,11 +7,11 @@
 
 📄 Know about my experiences here on **[linkedIn](linkedin.com/in/silpedro)**
 
-💻 July/2023 Goals:
-- Create a personal website about my resume
-- Get promoted at my current job
-- Make new connections!
-
+💻 September/2023 Goals:
+- Make daily commits;
+- Get a new feedback about my job;
+- Have a job interview to see if I still can do it XD;
+- Start a new programming language! (Ruby, C or Java, they seem pretty hard...)
 
 🎓 I have a technical course of **Systems Analysis and Development** and am doing a Full-Stack course! 
 

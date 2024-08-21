@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pedro Silva</h1>
 <h3 align="center">A Freelancer and a Administrative Assistant from São Paulo - Brazil</h3>
 
-🌱 I’m currently learning **everything XD**
+🌱 I’m currently learning **.NET and Python**
 
-📫 How to reach me **silva.pedro1155@gmail.com**
+📫 You may reach me on **silva.pedro1155@gmail.com**
 
-📄 Know about my experiences here on **[linkedIn](linkedin.com/in/silpedro)**
+📄 Know about my experiences here on **[Linkedin](linkedin.com/in/silpedro)**
 
-💻 September/2023 Goals:
+💻 September/2024 Goals:
 - Make daily commits;
 - Get a new feedback about my job;
 - Have a job interview to see if I still can do it XD;

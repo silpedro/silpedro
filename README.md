@@ -13,6 +13,14 @@ Currently studying **Software Engineering**, with a technical course in **System
 
 Ask me about Weaviate, RAG pipelines, LLM integrations (OpenAI/Anthropic) or data engineering at scale
 
+<h3 align="left">Projects:</h3>
+
+**[INK AGENDA](https://github.com/silpedro/inktattoo_)**: login and sign-up front-end for a tattoo booking platform, built with plain HTML, CSS and JavaScript (no libraries)
+
+- Responsive, accessible forms with real-time password rules, field validation and phone masking
+- Page weight cut from 52 MB to 0.3 MB by converting SVGs that wrapped embedded PNGs into WebP
+- 38 automated tests for the validation rules
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/silpedro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="silpedro" height="30" width="40" /></a>
